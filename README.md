@@ -5,7 +5,7 @@ P.S. When frequently changing screen sizes in large ranges (for example, when te
 the slider may break in the Portfolio/Works block. NO ERRORS DETECTED when pages are loaded in the classic way.
 If this is the case, simply reload the site. 
 
-https://getmoki.github.io/Site-4-DEVELOPERS/index.html
+https://vrvrvrr.github.io/Site_4-Developers-Design/index.html
 Run at project name \ index.html
 or by following the link provided in the repository
 
@@ -35,7 +35,7 @@ P.S. При частій зміні розмірів екрану у велик�
 
 Запускати через project name \ index.html
 або за посиланням вказаним в репозиторії: 
-https://getmoki.github.io/Site-4-DEVELOPERS/index.html
+https://vrvrvrr.github.io/Site_4-Developers-Design/index.html
 
 Макет сайту знаходиться за посиланням:
 https://www.figma.com/file/hG8XqcROISkRaDc9FF2Qjz/Test_Task_Developers?node-id=0%3A1&t=gDUhj1mfi6qxXMSA-0
